@@ -410,7 +410,7 @@ The Linux startup process very much depends on the hardware architecture, but it
    * These provide various <span style="color:#f77729;"><b>background</b></span> system services and structures and form the user <span style="color:#f77729;"><b>environment</b></span>. 
 
 ## Desktop environment
-The desktop environment begins with a daemon, called the <span style="color:#f77729;"><b>display manager</b></span> that starts a GUI environment which consists of:
+The desktop environment begins with a daemon, called the <span style="color:#f77729;"><b>display manager</b></span>, that starts a GUI environment which consists of:
   1. Graphical <span style="color:#f77729;"><b>server</b></span> that provides basic <span style="color:#f77729;"><b>rendering</b></span> and manages input from user
   2. <span style="color:#f77729;"><b>Login manager</b></span> that provides the ability to enter credentials and select a session (basically our login page). 
 
